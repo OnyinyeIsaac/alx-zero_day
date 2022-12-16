@@ -1,1 +1,1 @@
-My first readme
+The beginning of the journey
